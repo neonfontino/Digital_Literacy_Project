@@ -1,71 +1,56 @@
-## Project Overview  
+# Digital Literacy Portfolio (CSE0001)
 
-This is basically everything I worked on during the Digital Literacy course put in one place.  
-Not really perfect or anything, but it shows what I did and what I understood (at least to some extent).
+This repository holds all the work completed during the course of the Digital Literacy course. This portfolio is a structured collection of all the tasks completed during the semester, showing the use of various digital tools during the completion of the tasks.  
 
-At the start, I was just trying to complete tasks properly. Later on, I started thinking more about *why* we were doing them. That part made a difference.
+Apart from showing the work completed, this portfolio also showcases the understanding of the tools used during the completion of the tasks, specifically focusing on their professional significance.  
 
----
+## Project Overview
 
-## Module Breakdown  
+This portfolio is more than just a collection of completed tasks. This portfolio is a result of a transformation from the use of digital tools for completing tasks to understanding their professional significance.  
 
-### 1. Visual Communication: The Impact of Infographics  
+All the modules of this course were designed for a better understanding of theoretical concepts and their practical application. In a few cases, the significance of this connection came only after completing the tasks.  
 
-- Used Canva to make an infographic  
-- Initially added too much content → looked messy  
-- Had to remove things and simplify  
+## Core Modules & Deliverables
 
-This part was more about reducing information than adding it.  
-I didn’t expect that.
+### 1. Visual Communication (Infographics)
 
----
+This module focused on presenting information in a structured manner. Using the **Canva** tool, I have designed an infographic that includes all the concepts of digital literacy.  
 
-### 2. Networking and Professional Identity  
+One of the challenges faced during this task was striking a balance between information and simplicity. Adding too much information made it difficult for the infographic to be understood, and removing information required a better understanding of the importance of each piece of information.  
 
-Profiles created: LinkedIn, GitHub, Stack Overflow  
+This task showed that communication is effective when information is properly simplified.  
 
-Honestly, this took longer than expected. Not because it was hard—but because I kept editing things.  
-Descriptions, skills, wording… changed multiple times.
+### 2. Online Identity & Networking
 
-Still not 100% satisfied, but better than before.
+This module focused on creating a professional online identity through platforms like **LinkedIn, GitHub, Stack Overflow**, etc.
 
----
+Although it was relatively easy to establish these profiles, it proved to be slightly more complex when it came to presenting information clearly and relevantly. This meant considering the best method to present information about skills or projects in a manner that would be easily understood by a wider audience, particularly within a professional context.
 
-### 3. Logic, Coding, and Collaborative Tools  
+### 3. Logic & Collaborative Problem Solving
 
-- HackerRank challenge → took a few attempts  
-- Got stuck once, had to rethink logic (not just trial and error)  
+This module entailed coding exercises, as well as the application of collaborative tools.  
 
-Also made a quiz using Google Forms.  
-That part was straightforward.
+- **HackerRank:** A logic-based coding exercise had to be completed, which would improve problem-solving skills, including an increased comprehension of structured problem statements.  
+- **Google Forms:** A digital literacy quiz had to be designed, with results automatically recorded using Google Sheets.  
 
-Main takeaway: simple tools can still be useful, especially when working with others.
+This module entailed an understanding of how different tools can be integrated to facilitate efficient data collection or collaboration.
 
----
+### 4. Professional Communication Etiquette
 
-### 4. Mastering Professional Etiquette  
+This module entailed an exploration of effective communication within digital environments. This included creating formal email templates, as well as designing a “best practices” guide for using social media.  
 
-Worked on:
-- Email templates  
-- Social media do’s and don’ts  
+The purpose of this module was to understand the best method to maintain professionalism while considering clarity and appropriateness within communication. Small changes can significantly affect the overall tone or comprehension of communication.  
 
-This seemed easy at first, but tone is actually tricky.  
-Too formal → sounds unnatural  
-Too casual → doesn’t feel professional  
+### 5. Cybercrime Awareness & Safety
 
-There’s a balance, and I’m still figuring it out.
+The final module entailed an exploration of digital security concerns. By researching different **phishing case studies**, it became apparent that cybercrime is often dependent on human behavior, not necessarily technical skill.  
 
----
+As part of this module, a “stay safe” checklist had to be designed, as well as recording the **1930 helpline** for reporting cybercrime incidents.  
 
-### 5. Digital Defense: Cybercrime Awareness  
+This module proved to be an interesting exploration, particularly with regards to the importance of awareness.
 
-Focused on phishing scams  
+## Final Reflections
 
-Some examples were surprisingly realistic. Not obvious at all.  
-Made me realize that these scams rely more on human behavior than technical flaws.
+In conclusion, it is evident that working through these modules has enhanced my knowledge regarding how digital tools are utilized in a practical or professional context.
 
-Also created:
-- “Stay Safe Online” checklist  
-- Noted 1930 helpline  
-
-Probably the most practical module overall.
+A greater awareness exists in relation to not just how these digital tools operate but also how they impact society in relation to communication, security, and online presence. While there is obviously more to learn, there is a more defined approach to utilizing these digital tools.
