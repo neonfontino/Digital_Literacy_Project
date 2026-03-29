@@ -6,10 +6,9 @@
 * **Branch:** Computer Science and Engineering
 * **Batch:** 2025-2029
 * **Institution:** VIT Bhopal University
----
+
 ## Project Overview:
 This repository serves as my final portfolio for the Digital Literacy (CSE0001) course. 
----
 
 ## Module Summaries:
 
