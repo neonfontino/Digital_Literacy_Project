@@ -1,16 +1,14 @@
 # Digital Literacy Portfolio (CSE0001)
 
-## 🎓 Student Information
+## Student Information
 * **Name:** Aditya Chaudhary
 * **Registration Number:** 25BCY10025
 * **Branch:** Computer Science and Engineering
 * **Batch:** 2025-2029
 * **Institution:** VIT Bhopal University
 ---
-
 ## Project Overview:
 This repository serves as my final portfolio for the Digital Literacy (CSE0001) course. 
-
 ---
 
 ## Module Summaries:
@@ -40,7 +38,7 @@ This repository serves as my final portfolio for the Digital Literacy (CSE0001) 
 * **Deliverable:** A case study on Phishing and a "Stay Safe Online" prevention checklist.
 * **Key Learning:** Recognizing psychological triggers in cyberattacks and utilizing reporting helplines like 1930.
 
-## 🔗 Quick Links
+## Quick Links
 * **Digital Literacy Quiz:** https://docs.google.com/forms/d/e/1FAIpQLSdlOHsyNh75bcyYMDgjOWPgzPFae-V-yIdHAHXkFENFq-OVHg/viewform
 * **LinkedIn Profile:** www.linkedin.com/in/aditya-chaudhary-2611a5380
 * **HackerRank Profile:** https://www.hackerrank.com/profile/aditya_25bcy1001
