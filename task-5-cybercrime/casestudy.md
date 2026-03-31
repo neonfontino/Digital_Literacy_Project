@@ -22,13 +22,11 @@ That urgency is intentional.
 **The Hook**  
 Then they give a reason. Something like “verify your account” or “update required.”  
 Sometimes they even make it sound like good news (scholarship, payment, etc.), which makes it easier to trust.  
-
 There’s always a link included.
 
 **The Mimicry**  
 You click the link → it opens a page that looks real.  
 Not just similar—almost identical. Same layout, same branding.  
-
 At that point, most people don’t question it.
 
 **The Capture**  
@@ -38,7 +36,6 @@ But instead of logging you in, that data is being collected. Instantly.
 **The Payload**  
 After that, the attacker can access the real account.  
 They might change the password, log you out, or even use the account before you notice anything.
-
 Sometimes the user only realizes later.
 
 ---
@@ -49,7 +46,6 @@ Students are actually common targets.
 
 They’re constantly switching between platforms—college portals, emails, payments, apps—so it’s easier to slip up.  
 Also, not everyone checks URLs or security indicators carefully, especially if the message feels urgent or important.
-
 And honestly, most people don’t expect to be targeted, which also plays a role.
 
 ---
@@ -64,4 +60,4 @@ The effects can be pretty serious, depending on what gets accessed.
 
 The academic side is also a problem—if college accounts are involved, it can affect submissions, records, etc.
 
-So yeah, it usually starts small (just clicking a link), but the impact can be much bigger than expected.
+It usually starts small (just clicking a link), but the impact can be much bigger than expected.
